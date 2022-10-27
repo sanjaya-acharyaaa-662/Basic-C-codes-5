@@ -9,4 +9,8 @@ printf("hello world");
 
 // pattern.c contributed - san 98
 
+``` Javascript
+console.log("Hacktoberfest Accepted - ASM 098");
+```
+
 #### ANG 98 contributed input.c

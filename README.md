@@ -6,3 +6,5 @@ printf("hello world");
 // Sanjaya662 contributed sum file
 
 // Pratikshya99 contributed product file
+
+// pattern.c contributed - san 98

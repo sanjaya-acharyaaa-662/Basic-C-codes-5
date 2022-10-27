@@ -8,3 +8,5 @@ printf("hello world");
 // Pratikshya99 contributed product file
 
 // pattern.c contributed - san 98
+
+#### ANG 98 contributed input.c

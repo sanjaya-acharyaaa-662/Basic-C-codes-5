@@ -12,3 +12,5 @@ printf("hello world");
 ``` Javascript
 console.log("Hacktoberfest Accepted - ASM 098");
 ```
+
+#### ANG 98 contributed input.c
